@@ -1,0 +1,33 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there, what can I do for you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you", "good night", "talk to you later"],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "See you soon!"
+      ]
+    },
+    {
+      "tag": "project_info",
+      "patterns": [
+        "what is this project",
+        "tell me about this chatbot",
+        "explain your architecture",
+        "what is this system about"
+      ],
+      "responses": [
+        "I am a trust-aware AI chatbot that uses a blockchain-based provenance registry to anchor hashes of my training data, model versions, and chat logs.",
+        "This system combines an ML-based intent classifier with a smart contract on an Ethereum-like blockchain to provide tamper-evident audit trails."
+      ]
+    }
+  ]
+}
