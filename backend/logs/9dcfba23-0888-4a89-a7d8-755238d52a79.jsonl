@@ -1,0 +1,1 @@
+{"timestamp": "2025-12-07T14:13:59.865338Z", "session_id": "9dcfba23-0888-4a89-a7d8-755238d52a79", "user_message": "Hello!", "bot_reply": "Hi there, what can I do for you?", "intent_tag": "greeting", "model_version": "v1.0", "dataset_id": "intents_v1"}
