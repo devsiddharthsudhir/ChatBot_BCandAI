@@ -18,3 +18,18 @@ build/
 Thumbs.db
 .vscode/
 .idea/
+
+# Logs
+backend/logs/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Env files
+.env
+.env.*
